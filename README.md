@@ -1,2 +1,2 @@
 # r-projects
-Basics of r concepts.
+Basic projects of r concepts.
